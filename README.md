@@ -47,8 +47,8 @@ Senior Software Engineer | Java | Spring Boot | Microservices | Angular
 
 Experienced in developing enterprise applications using Java, Spring Boot, microservices, and Angular. Interested in backend engineering, system design, cloud technologies, and AI-powered applications.
 
-- **GitHub:** [GitHub Profile](<YOUR_GITHUB_PROFILE_URL>)
-- **LinkedIn:** [LinkedIn Profile](<YOUR_LINKEDIN_PROFILE_URL>)
+- **GitHub:** [GitHub Profile](<https://github.com/pain55>)
+- **LinkedIn:** [LinkedIn Profile](<https://www.linkedin.com/in/sai-kiran-manthri-298b6b117/>)
 
 ---
 
